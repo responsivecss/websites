@@ -1,2 +1,2 @@
 # responsive websites
-Showcase of best responsive designs
+Collection of best responsive design websites
