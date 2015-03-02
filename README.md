@@ -1,4 +1,4 @@
-# responsive websites
+# Responsive CSS
 Collection of best responsive design websites
 
 /*
